@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **adityashedole117@gmail.com**
 
-- ⚡ Fun fact **I'm Not funny 😅**
+- ⚡ Fun fact **When I'm not coding, you'll likely find me exploring new coffee shops or lost in a good book. ☕📚
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
