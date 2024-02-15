@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
+- 👨‍💻 All of my projects are available at [https://linktr.ee/adityashedole117](https://linktr.ee/adityashedole117)
+
 - 📫 How to reach me **adityashedole117@gmail.com**
 
 - ⚡ Fun fact **I'm Not funny 😅**
