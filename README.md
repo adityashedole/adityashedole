@@ -12,6 +12,12 @@
 
 - 📫 How to reach me **adityashedole117@gmail.com**
 
+- 🤔 I’m looking for help with **Competitive Programming**
+
+- 💬 Ask me about **Coding, Frontend, Backend, DSA, Web, Software Development**
+
+- 🧠 I'm learning **MERN Stack.**
+
 - ⚡ Fun fact **When I'm not coding, you'll likely find me exploring new things or lost in a good book. ☕📚
 
 <h3 align="left">Connect with me:</h3>
