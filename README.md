@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Coding, Frontend, Backend, DSA, Web, Software Development**
 
-- ⚡ Fun fact **When I'm not coding, you'll likely find me exploring new things or lost in a good book. ☕📚
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/aditya-shedole-3813832b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityashedolelinkdin" height="30" width="40" /></a>
