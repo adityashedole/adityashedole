@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Shedole</h1>
-<h3 align="center">A Final-Year Computer Science Engineering student at Pune University with a passion for Software Testing</h3>
+<h3 align="center">A Computer Science Engineering Graduate from Pune University with a passion for Software Testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityashedole&label=Profile%20views&color=0e75b6&style=flat" alt="adityashedole" /> </p>
 
