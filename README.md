@@ -12,7 +12,6 @@ I am a dedicated learner with expertise in software testing. My focus is on ensu
 ---
 
 - 🌱 **What I’m Learning**: Software Testing (Manual and Automation)  
-- 📂 **My Projects**: [Check them out here](https://linktr.ee/adityashedole117)  
 - 💬 **Ask Me About**: Software Testing (Manual, Automation, Selenium, JIRA), Bug Tracking, and Quality Assurance  
 - 📫 **Reach Me At**: adityashedole117@gmail.com  
 
